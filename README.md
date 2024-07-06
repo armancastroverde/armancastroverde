@@ -2,10 +2,11 @@
 - 👀 I’m interested in Data Analytics and web development
 - 🌱 I’m currently learning at Corporate Finance Institute, IBM and Microsoft Learn. Terraform, Azure and AWS
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me thrue this email  (armancastroverde@gmail.com)
--                                        (09632024636)
+- 📫 You can reach me thrue this email  (armancastroverde@gmail.com), (09632024636)
 - 
-- ![2x2](https://github.com/armancastroverde/ican_dashboard/assets/128390754/5c47d136-16ef-4965-8fb6-3991800ec24e)
+- 
+![mcdo db](https://github.com/armancastroverde/ican_dashboard/assets/128390754/693cd7bc-c57c-4b40-a79b-1e25067c44e4)
+
 
 <---
 Hello, everyone!
