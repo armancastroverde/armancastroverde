@@ -1,7 +1,7 @@
-- 👋 Hi, I’m armando castroverde aCareer Shifter
+- 👋 Hi, I’m Armando Castroverde
 - 👀 I’m interested in Data Analytics and web development
 - 🌱 I’m currently learning at Corporate Finance Institute, IBM and Microsoft Learn. Terraform, Azure and AWS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ i am always eager to learn new things
 - 📫 You can reach me thrue this email  (armancastroverde@gmail.com), (09632024636)
 - 
 - 
