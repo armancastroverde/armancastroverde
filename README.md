@@ -6,8 +6,7 @@
 - 
 ![financial net](https://github.com/user-attachments/assets/fb367bc8-addc-48ff-b516-31115fb6caa0)
 
-- 
-![mcdo db](https://github.com/armancastroverde/ican_dashboard/assets/128390754/693cd7bc-c57c-4b40-a79b-1e25067c44e4)
+
 
 
 <---
